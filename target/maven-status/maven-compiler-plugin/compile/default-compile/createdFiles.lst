@@ -1,0 +1,4 @@
+com/hb/Book.class
+com/hb/App.class
+com/hb/config/HibernateConfig.class
+com/hb/service/BookService.class
